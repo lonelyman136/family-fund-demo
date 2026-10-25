@@ -1,0 +1,1 @@
+GitHub Pages demo - synthetic data only. Upload index.html to a NEW PUBLIC repository. Settings > Pages > Deploy from a branch > main /root > Save. Then in BotFather use /mybots > bot > Bot Settings > Menu Button > Configure menu button with your HTTPS GitHub Pages URL. No bot token required for this static menu button. This is not secure for real member financial data.
